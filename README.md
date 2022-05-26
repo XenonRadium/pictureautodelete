@@ -1,7 +1,7 @@
 # pictureautodelete
 
-# To test, run Autodelete.exe (Windows)|Autodelete (Linnux), or use command go build main.go, go run main.go
-# To deploy, please delete the kiplebox folder containing dummy pictures, and change path in config.yml according to system structure.
+## To test, run Autodelete.exe (Windows)|Autodelete (Linnux), or use command go build main.go, go run main.go
+## To deploy, please delete the kiplebox folder containing dummy pictures, and change path in config.yml according to system structure.
 
 ## Function
 The program takes in a user input for date in the format of YYYY-MM-DD.
